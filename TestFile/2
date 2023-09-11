@@ -1,3 +1,0 @@
-str1='英雄联盟'
-str2='英雄联盟'
-print(str1==str2)
